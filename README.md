@@ -5,7 +5,8 @@
 <p>The news organization also excluded three additional certifications that did not have any qualifying condition listed, and 408 certifications that were created before 2021 and still labeled as active in the records the state provided. The maximum time period for a certification is 12 months.</p>
 <p>Depending on the specifics of your analysis, you could consider excluding more or less than what Spotlight PA did for its January 2022 investigation.</p>
 <p>The file 2017.xlsx includes both certifications created that year and an information sheet that explains key terms for all of the data sheets.</p>
-<p>Got a question or thought about the data and Pennsylvania's medical marijuana program? Feel free to contact me at emahon@spotlightpa.org.</p>
+<p>Got a question or thought about the data and Pennsylvania's medical marijuana program? Feel free to contact me at <a href="mailto:emahon@spotlightpa.org.">emahon@spotlightpa.org.</a>
+
 
 
 
