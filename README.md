@@ -1,6 +1,6 @@
 # Pennsylvania-medical-marijuana-certifications
 After a court battle, the Pennsylvania Department of Health shared records with Spotlight PA of more than 1 million medical marijuana certifications. The health department later shared the same anonymized data with academic researchers across the state.
-In total, the health department spreadsheets provided details on more than 1.13 million certifications created from November 2017 through August 2022.
+<p></p>In total, the health department spreadsheets provided details on more than 1.13 million certifications created from November 2017 through August 2022.
 For Spotlight PA's analysis in January 2023, the news organization excluded about 31,000 of the 1.13 million certifications — or 2.8% — from its analysis. The health department placed certifications in one of nine status categories. Our analysis looked at two of those: active and expired. We excluded the other seven categories, such as ones that were created in error, never used, or canceled at the request of the practitioner. Those seven statuses accounted for a small percentage of the total certifications.
 The news organization also excluded three additional certifications that did not have any qualifying condition listed, and 408 certifications that were created before 2021 and still labeled as active in the records the state provided. The maximum time period for a certification is 12 months.
 
