@@ -6,7 +6,8 @@
 <p>Spotlight PA went into greater detail about its reporting in this <a href="https://www.spotlightpa.org/news/2023/01/pa-medical-marijuana-certification-card-anxiety-analysis/">explainer article.</p>
 <p>Depending on the specifics of your analysis, you could consider excluding more or less than what Spotlight PA did for its January 2022 investigation.</p>
 <p>The file Certifications (2017).xlsx includes both certifications created that year and an information sheet that explains key terms for all of the data sheets, such as Treatment Period, Zip Code, and Certification Status. You should refer to the information sheet in the file Certifications (2017).xlsx for whichever years you are analyzing.</p>
-<P>The files for 2017 and 2022 include partial year data. Each file for for 2018, 2019, 2020, and 2021 includes a full year's worth of data.</P>
+<P>The files for 2017 and 2022 include partial-year data. Each file for 2018, 2019, 2020, and 2021 includes a full year's worth of data.</P>
+  <p><b>Contact the reporter</b></p>
 <p>Got a question or thought about the data and Pennsylvania's medical marijuana program? Feel free to contact me at <a href="mailto:emahon@spotlightpa.org.">emahon@spotlightpa.org.</a>
 
 
