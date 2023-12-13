@@ -1,4 +1,4 @@
-# Pennsylvania-medical-marijuana-certifications
+
 <p>After a court battle, the Pennsylvania Department of Health shared records with Spotlight PA of more than 1.13 million medical marijuana certifications created from November 2017 through August 2022.</p>
 <p>These certifications allow hundreds of thousands of patients to legally use cannabis in the state. The news organization's analysis offered the first comprehensive look at how the decision to add anxiety disorders as a qualifying condition transformed Pennsylvania’s program, and, in the eyes of some, made it possible for basically anyone to get a medical marijuana card.</p>
 <p><b>How Spotlight PA cleaned the data</b><p>
